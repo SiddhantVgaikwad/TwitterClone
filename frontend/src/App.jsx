@@ -17,7 +17,7 @@ function App() {
 	const { data: authUser, isLoading } = useQuery({
 		// we use queryKey to give a unique name to our query and refer to it later
 		queryKey: ["authUser"],
-		queryFn: async () => {
+		queryFn: async () => { 
 			try {
 				const res = await fetch("/api/auth/me");
 				const data = await res.json();
