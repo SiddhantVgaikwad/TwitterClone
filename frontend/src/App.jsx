@@ -48,7 +48,7 @@ function App() {
 			{/* Common component, bc it's not wrapped with Routes */}
 			{authUser && <Sidebar />}
 			<Routes>
-				<Route path='/' element={<HomePage />  />
+				<Route path='/' element={<HomePage /> } />
 				<Route path='/login' element={!authUser ? <LoginPage /> : <Navigate to='/' />} />
 				<Route path='/signup' element={!authUser ? <SignUpPage /> : <Navigate to='/' />} />
 				<Route path='/notifications' element={authUser ? <NotificationPage /> : <Navigate to='/login' />} />
