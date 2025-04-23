@@ -4,7 +4,7 @@
 
 A fully-featured Twitter-inspired microblogging platform with secure authentication, dynamic user interaction, and real-time communication. Built using the powerful MERN stack.
 
-👉 **[Live Demo](#)** — *Explore it now!*
+👉 **[Live Demo](https://twitterclonebysid.onrender.com/)** — *Explore it now!*
 
 ---
 
@@ -19,13 +19,13 @@ A fully-featured Twitter-inspired microblogging platform with secure authenticat
 
 ---
 ###screenshot 
-<h2>Home Page</h2>
+-Home page
 ![image](https://github.com/user-attachments/assets/72e036fb-e599-4147-8344-93296ac2084a)
 
-<h2>Update Profile</h2>
+-Update Profile
 ![image](https://github.com/user-attachments/assets/3bc2a23e-b708-4394-b57c-79a10a992c37)
 
-
+-follow/unfollow, Posts, like/unlike
 ![image](https://github.com/user-attachments/assets/eb664f57-038c-4dad-a0be-948798609bd4)
 
 
