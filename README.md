@@ -18,6 +18,17 @@ A fully-featured Twitter-inspired microblogging platform with secure authenticat
 - 🌐 *OAuth 2.0 integration (Coming Soon)*
 
 ---
+###screenshot 
+<h2>Home Page</h2>
+![image](https://github.com/user-attachments/assets/72e036fb-e599-4147-8344-93296ac2084a)
+
+<h2>Update Profile</h2>
+![image](https://github.com/user-attachments/assets/3bc2a23e-b708-4394-b57c-79a10a992c37)
+
+
+![image](https://github.com/user-attachments/assets/eb664f57-038c-4dad-a0be-948798609bd4)
+
+
 
 ### 🎯 User Experience
 - 🌓 Light & Dark theme toggle  
