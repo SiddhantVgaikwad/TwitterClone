@@ -18,7 +18,8 @@ A fully-featured Twitter-inspired microblogging platform with secure authenticat
 - 🌐 *OAuth 2.0 integration (Coming Soon)*
 
 ---
-### screenshot 
+### 
+## 📸 Feature Showcase
 
 - # Home page
   
@@ -119,7 +120,6 @@ A fully-featured Twitter-inspired microblogging platform with secure authenticat
 
 ---
 
-## 📸 Feature Showcase
 
 
 ---
