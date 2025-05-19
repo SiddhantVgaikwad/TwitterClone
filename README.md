@@ -1,10 +1,11 @@
 
-# TwitterClone 🐦🔥  
+# TwitterClone 🐦  
 **MERN Stack | JWT Auth | Real-Time Social Experience**
 
 A fully-featured Twitter-inspired microblogging platform with secure authentication, dynamic user interaction, and real-time communication. Built using the powerful MERN stack.
 
 👉 **[Live Demo](https://twitterclonebysid.onrender.com/)** — *Explore it now!*
+
 
 ---
 
@@ -149,7 +150,7 @@ MIT © [Siddhant Gaikwad](https://github.com/SiddhantVgaikwad)
 ## 👨‍💻 Crafted with ❤️ by Siddhant Gaikwad  
 *Full Stack Developer*
 
-[LinkedIn](#) • [Twitter](#)
+[LinkedIn](https://www.linkedin.com/in/dktesiddhantgaikwad/) • [Twitter](#)
 
 ---
 
